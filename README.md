@@ -1,23 +1,23 @@
 # Kitchenly - Recipe App in Flutter
 
-Kitchenly is a **Recipe Application built with Flutter**, designed to provide a clean and modern user experience for exploring, saving, and purchasing recipes.  
-It features a **shopping cart system**, **checkout flow**, and **integrated payment methods** tailored for Pakistan (EasyPaisa, JazzCash, Bank transfer).
+Kitchenly is a Recipe Application built with Flutter, designed to provide a clean, modern, and user-friendly experience for exploring, saving, and purchasing recipes.
 
 ---
 
 ## ✨ Features
-- 📋 **Recipe Listing** – Browse a variety of delicious recipes with images, ingredients, and instructions.  
-- 🛒 **Cart Management** – Add recipes to your cart and manage quantities using Provider.   
-- 🎨 **Modern UI** – Responsive and aesthetic design with Flutter’s Material widgets.  
-- ⚡ **State Management** –  Provider for smooth and scalable app state handling.  
-- 📱 **Responsive Layout** – Works seamlessly across mobile screen sizes and tablet screens.  
+📖 Browse Recipes – Fetch recipes from API and view detailed information.
+🛒 Shopping Cart – Add recipes to cart and manage items easily.
+💳 Checkout Flow – Seamless checkout with payment method selection.
+🔐 User Authentication – Secure Login & Signup using Firebase.
+🔍 Recipe Details – View ingredients, instructions, and price details.
+🎨 Modern UI – Responsive, clean, and scalable Flutter design.
 
 ---
 ## 🚀 Tech Stack
-- **Flutter** (Dart)  
-- **Provider** for state management  
-- **Firebase** (if used)  
-- **Custom Theming** for consistency  
+Flutter (Dart)
+Firebase (Auth & Firestore)
+Provider (State Management)
+REST API (for recipes) 
 
 ---
 ## 📷 Screenshots
