@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403761172017",
+    "project_id": "kitchenly-271e8",
+    "storage_bucket": "kitchenly-271e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403761172017:android:968f6224c46a87c11e4f10",
+        "android_client_info": {
+          "package_name": "com.example.kitchenly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOOJ2J0ijqOvPqY990-GNhrKHu_O28iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
