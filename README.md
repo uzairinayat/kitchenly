@@ -1,16 +1,28 @@
-# kitchenly
+# Kitchenly - Recipe App in Flutter
 
-A new Flutter project.
+Kitchenly is a **Recipe Application built with Flutter**, designed to provide a clean and modern user experience for exploring, saving, and purchasing recipes.  
+It features a **shopping cart system**, **checkout flow**, and **integrated payment methods** tailored for Pakistan (EasyPaisa, JazzCash, Bank transfer).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 📋 **Recipe Listing** – Browse a variety of delicious recipes with images, ingredients, and instructions.  
+- 🛒 **Cart Management** – Add recipes to your cart and manage quantities using Provider.   
+- 🎨 **Modern UI** – Responsive and aesthetic design with Flutter’s Material widgets.  
+- ⚡ **State Management** –  Provider for smooth and scalable app state handling.  
+- 📱 **Responsive Layout** – Works seamlessly across mobile screen sizes and tablet screens.  
 
-A few resources to get you started if this is your first Flutter project:
+---
+## 🚀 Tech Stack
+- **Flutter** (Dart)  
+- **Provider** for state management  
+- **Firebase** (if used)  
+- **Custom Theming** for consistency  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 📷 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+---
+## 🔧 Getting Started
+1. Clone this repo:
