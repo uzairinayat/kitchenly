@@ -5,19 +5,19 @@ Kitchenly is a Recipe Application built with Flutter, designed to provide a clea
 ---
 
 ## ✨ Features
-📖 Browse Recipes – Fetch recipes from API and view detailed information.
-🛒 Shopping Cart – Add recipes to cart and manage items easily.
-💳 Checkout Flow – Seamless checkout with payment method selection.
-🔐 User Authentication – Secure Login & Signup using Firebase.
-🔍 Recipe Details – View ingredients, instructions, and price details.
-🎨 Modern UI – Responsive, clean, and scalable Flutter design.
+- 📖 Browse Recipes – Fetch recipes from API and view detailed information.
+- 🛒 Shopping Cart – Add recipes to cart and manage items easily.
+- 💳 Checkout Flow – Seamless checkout with payment method selection.
+- 🔐 User Authentication – Secure Login & Signup using Firebase.
+- 🔍 Recipe Details – View ingredients, instructions, and price details.
+- 🎨 Modern UI – Responsive, clean, and scalable Flutter design.
 
 ---
 ## 🚀 Tech Stack
-Flutter (Dart)
-Firebase (Auth & Firestore)
-Provider (State Management)
-REST API (for recipes) 
+- Flutter (Dart)
+- Firebase (Auth & Firestore)
+- Provider (State Management)
+- REST API (for recipes) 
 
 ---
 ## 📷 Screenshots
